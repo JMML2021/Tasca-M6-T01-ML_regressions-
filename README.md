@@ -13,6 +13,4 @@ Aplicar la tècnica - models de regressió.
 Conèixer altres models.
 
 
-Consells útils
 
-Si algun recurs web demana registre, prova d’obrir-lo en finestra d’incògnit.
